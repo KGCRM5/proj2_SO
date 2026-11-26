@@ -34,3 +34,7 @@ GitHub Codespaces deste repositório. Medição em um disco de teste de 1 GB (lo
 - `fichas/`: entregas semanais
 - `medicoes/`: dados brutos e tabelas
 - `medicoes/dados/`: saídas brutas e CSVs de resumo
+
+
+## Relatório
+[Projeto 2 - SO.pdf](https://github.com/user-attachments/files/35486927/Projeto.2.-.SO.pdf)
